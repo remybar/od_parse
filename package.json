@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@ironsoftware/ironpdf": "^2024.3.1",
+    "dotenv": "^16.4.5",
     "pdf-parse": "^1.1.1",
     "pdf2json": "^3.0.5"
   }
